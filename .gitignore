@@ -1,3 +1,13 @@
 /.gradle
 /.idea
 /TechnologyConversationsCD.iml
+*.class
+*.jar
+.settings/org.eclipse.buildship.core.prefs
+.classpath
+.project
+target/surefire-reports/com.technologyconversations.articles.javabuildtools.GameTest.txt
+target/surefire-reports/com.technologyconversations.articles.javabuildtools.PlayerTest.txt
+target/surefire-reports/TEST-com.technologyconversations.articles.javabuildtools.PlayerTest.xml
+target/surefire-reports/TEST-com.technologyconversations.articles.javabuildtools.GameTest.xml
+target/maven-archiver/pom.properties
